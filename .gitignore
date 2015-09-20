@@ -1,3 +1,4 @@
+.DS_Store
 node_modules
 npm-debug.log
 .DS_Store
@@ -58,3 +59,4 @@ bower_components
 build/.module-cache
 
 *.sublime-workspace
+dist
