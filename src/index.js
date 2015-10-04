@@ -1,4 +1,4 @@
 import React from 'react';
-import { App } from './App';
+import ActiveUserPost from './Components';
 
-React.render(<App />, document.getElementById('root'));
+React.render(<ActiveUserPost />, document.getElementById('root'));
